@@ -1,0 +1,5 @@
+print report
+ check resources sufficient 
+ check coins 
+ check transaction successfull 
+ make coffee
