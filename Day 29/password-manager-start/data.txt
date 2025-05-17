@@ -1,0 +1,7 @@
+shivansh@gmail.com|hotmail.com|12345678910|Email: shivansh@gmail.com| Website : gmail.com| password 12345678910
+Email: shivansh@yahoo.com| Website : yahoo.com| password 123456789|
+Email: orkut| Website : yahoo.com| password 123|
+Email: shivansh| Website : shivansh| password shivansh|
+Email: password| Website : PASSWORD| password password|
+Email: | Website : | password |
+Email: shivansh@gmail.com| Website : amazon| password 123456789|
